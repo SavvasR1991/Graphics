@@ -1,0 +1,62 @@
+﻿'Course3.exe': Loaded 'C:\Users\Rostandakia\Desktop\Project\Παραδοτέο\Project_10132_10149\Debug\Course3.exe', Symbols loaded.
+'Course3.exe': Loaded 'C:\Windows\System32\ntdll.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\kernel32.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\KernelBase.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\opengl32.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\msvcrt.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\advapi32.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\sechost.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\rpcrt4.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\gdi32.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\user32.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\lpk.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\usp10.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\glu32.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\ddraw.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\dciman32.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\setupapi.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\cfgmgr32.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\oleaut32.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\ole32.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\devobj.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\dwmapi.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\system\glut32.dll', Binary was not built with debug information.
+'Course3.exe': Loaded 'C:\Windows\System32\winmm.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\msvcr100d.dll', Symbols loaded.
+'Course3.exe': Loaded 'C:\Windows\System32\msvcp100d.dll', Symbols loaded.
+'Course3.exe': Loaded 'C:\Windows\System32\apphelp.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\AppPatch\AcLayers.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\sspicli.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\shell32.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\shlwapi.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\userenv.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\profapi.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\winspool.drv', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\mpr.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\imm32.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\msctf.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\uxtheme.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\nvoglv32.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\version.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\wtsapi32.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\wintrust.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\crypt32.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\msasn1.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\ntmarta.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\Wldap32.dll', Cannot find or open the PDB file
+The thread 'Win32 Thread' (0x13c8) has exited with code 0 (0x0).
+'Course3.exe': Loaded 'C:\Windows\System32\powrprof.dll', Cannot find or open the PDB file
+The thread 'Win32 Thread' (0xca0) has exited with code 0 (0x0).
+'Course3.exe': Unloaded 'C:\Windows\System32\powrprof.dll'
+'Course3.exe': Loaded 'C:\Windows\System32\winsta.dll', Cannot find or open the PDB file
+The thread 'Win32 Thread' (0x494) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x175c) has exited with code 0 (0x0).
+'Course3.exe': Loaded 'C:\Windows\System32\cryptbase.dll', Cannot find or open the PDB file
+'Course3.exe': Loaded 'C:\Windows\System32\clbcatq.dll', Cannot find or open the PDB file
+The thread 'Win32 Thread' (0xdc8) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x12c8) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x1664) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0xd78) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0xb98) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0xedc) has exited with code 0 (0x0).
+The program '[2412] Course3.exe: Native' has exited with code 0 (0x0).
